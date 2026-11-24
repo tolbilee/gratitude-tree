@@ -1,0 +1,2 @@
+window.SB_URL = 'https://mlgwzuwflalosxhtbbhh.supabase.co';
+window.SB_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1sZ3d6dXdmbGFsb3N4aHRiYmhoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQwMzc1NzEsImV4cCI6MjA4OTYxMzU3MX0.Zlmaea86lIiW_11XNhgpQHL5uyl456kLO3ekQmj7YH0';
